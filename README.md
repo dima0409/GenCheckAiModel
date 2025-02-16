@@ -1,7 +1,7 @@
 # GenCheckAiModel
 ML часть проекта на "Большие вызовы"
 
-[Демо проекта](hhttps://github.com/dima0409/GenCheckAIBot)
+[Демо проекта](https://github.com/dima0409/GenCheckAIBot)
 
 ## Технологии 
 - PyTorch
